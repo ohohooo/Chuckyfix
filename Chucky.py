@@ -20,25 +20,25 @@ ki = LINETCR.LINE()
 #ki.login(qr=True)
 ki.login(token='TOKEN_KAMU_DISINI_BEIB')
 ki.loginResult()
-print "Ki-Login Success\n"
+print ("Ki-Login Success\n")
 
 kk = LINETCR.LINE()
 #kk.login(qr=True)
 kk.login(token='TOKEN_KAMU_DISINI_BEIB')
 kk.loginResult()
-print "Kk-Login Success\n"
+print ("Kk-Login Success\n")
 
 kc = LINETCR.LINE()
 #kc.login(qr=True)
 kc.login(token='TOKEN_KAMU_DISINI_BEIB')
 kc.loginResult()
-print "Kc-Login Success\n"
+print ("Kc-Login Success\n")
 
 kr = LINETCR.LINE()
 #kr.login(qr=True)
 kr.login(token='TOKEN_KAMU_DISINI_BEIB')
 kr.loginResult()
-print "Kr-Login Success\n"
+print ("Kr-Login Success\n")
 
 km = LINETCR.LINE()
 #km.login(qr=True)
