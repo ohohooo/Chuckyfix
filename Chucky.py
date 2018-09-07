@@ -44,7 +44,7 @@ km = LINETCR.LINE()
 #km.login(qr=True)
 km.login(token='TOKEN_KAMU_DISINI_BEIB')
 km.loginResult()
-print "Km-Login Success\n\n=====[Sukses All Login]====="
+print ("Km-Login Success\n\n=====[Sukses All Login]=====")
 
 reload(sys)
 sys.setdefaultencoding('utf-8')
