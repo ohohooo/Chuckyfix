@@ -14,7 +14,7 @@ cl = LINETCR.LINE()
 #cl.login(qr=True)
 cl.login(token='TOKEN_KAMU_DISINI_BEIB')
 cl.loginResult()
-#print "Cl-Login Success\n"
+print ("Cl-Login Success\n")
 
 ki = LINETCR.LINE()
 #ki.login(qr=True)
